@@ -1,0 +1,31 @@
+.Language{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,121,9,1) 35%, rgba(0,212,255,1) 100%) ;
+    padding: 10px 30px 20px 0px;
+    color: rgb(241, 227, 229);
+    height: 1000px;
+    font-size: 24px;
+}
+
+.LanguageHeading{
+    background-color: rgb(254, 254, 254);
+    margin: -10px 5px 0px 25px;
+    color: blue;
+    border-radius: 8px;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+    padding-bottom: 4px;
+}
+
+ul{
+    justify-content: center;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    padding: 5px;
+}
+
+.LanguageSection {
+    padding-top: 150px;
+}

@@ -1,0 +1,23 @@
+.Education{
+    background: linear-gradient(90deg, rgba(0,212,255,1) 17%, rgba(121,9,9,0.5844538498993348) 50%, rgba(2,0,36,1) 89%);
+    padding: 5px 0px 10px 0px;
+    color: white;
+    height: 1000px;
+}
+
+.courseDetails2{
+    padding-top: 5px;
+}
+
+.EducationHeading {
+    margin: -5px 25px 0px 25px;
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    border-radius: 8px;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+}
+
+.EducationSection {
+    padding-top: 300px;
+}

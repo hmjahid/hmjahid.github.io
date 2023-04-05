@@ -1,0 +1,29 @@
+.Experience{
+    background: linear-gradient(90deg, rgba(34,9,121,0.4163866230085784) 20%, rgba(0,212,255,1) 31%, rgba(34,9,121,0.4163866230085784) 100%, rgba(2,0,36,1) 100%);
+    color: black;
+    padding: 2px 0px 20px 0px;
+    height: 1000px;
+}
+
+.title{
+    font-size: 28px;
+    color: rgb(244, 16, 225);
+    font-style: italic;
+}
+
+.ExperienceDetails{
+    padding-bottom: 5px;
+}
+
+.ExperienceHeading{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    margin: -2px 25px 0px 25px;
+    border-radius: 8px;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+}
+
+.ExperienceSection {
+    padding-top: 200px;
+}

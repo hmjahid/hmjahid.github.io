@@ -1,0 +1,27 @@
+.Skill{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(0,212,255,1) 57%, rgba(34,9,121,0.4163866230085784) 86%, rgba(34,9,121,0.4163866230085784) 98%);
+    padding: 10px 30px 20px 0px;
+    color:crimson;
+    height: 1000px;
+    font-size: 24px;
+}
+
+.SkillHeading{
+    background-color: rgb(255, 255, 255);
+    margin: -10px 5px 0px 25px;
+    color: blue;
+    border-radius: 8px;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+}
+
+ul{
+    justify-content: center;
+    text-align: center;
+    padding-top: 300px;
+}
+
+li{
+    list-style: none;
+    padding-top: 10px;
+}
